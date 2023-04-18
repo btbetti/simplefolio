@@ -21,6 +21,10 @@
   }
 }
 
+.solo-btn {
+  padding-left: 0;
+}
+
 /* Hero Style */
 .cta-btn--hero {
   @include supportColorForIE11();
